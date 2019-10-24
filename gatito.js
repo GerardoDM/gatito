@@ -31,17 +31,17 @@ $(".cuadro").click(function() {
         alert("Ganaste");
      }
 
-     if ($("#1").attr('data-value') == 'x' && ($("#4").attr('data-value') == 'x') && $("#7").attr('data-value') == 'x') {
-        alert("Ganaste");
-     }
+    //  if ($("#1").attr('data-value') == 'x' && ($("#4").attr('data-value') == 'x') && $("#7").attr('data-value') == 'x') {
+    //     alert("Ganaste");
+    //  }
 
-     if ($("#1").attr('data-value') == 'x' && ($("#2").attr('data-value') == 'x') && $("#3").attr('data-value') == 'x') {
-        alert("Ganaste");
-     }
+    //  if ($("#1").attr('data-value') == 'x' && ($("#2").attr('data-value') == 'x') && $("#3").attr('data-value') == 'x') {
+    //     alert("Ganaste");
+    //  }
 
-     if ($("#1").attr('data-value') == 'x' && ($("#2").attr('data-value') == 'x') && $("#3").attr('data-value') == 'x') {
-        alert("Ganaste");
-     }
+    //  if ($("#1").attr('data-value') == 'x' && ($("#2").attr('data-value') == 'x') && $("#3").attr('data-value') == 'x') {
+    //     alert("Ganaste");
+    //  }
 
      
 
