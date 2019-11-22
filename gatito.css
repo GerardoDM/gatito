@@ -54,4 +54,14 @@ body{
 	background-color: darkslategray;
 }
 
+.col {
+	height: 100px;
+	width: 50px;
+	background-color: rgb(13, 40, 71);
+	border: 1px solid black;
+	font-size: 25px;
+	color: blanchedalmond;
+	text-align: center;
+}
+
 /*var foo = bar ? 1:0;
